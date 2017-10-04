@@ -1,3 +1,5 @@
 base test
 
+branch2 update
+
 branch1 update
